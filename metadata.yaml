@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26554
     wikipedia: http://en.wikipedia.org/wiki/Edmond_Privat
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26359#Vivo-de-Zamenhof
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2008-08-19'
 gutenberg_type: Text
